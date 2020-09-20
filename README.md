@@ -1,1 +1,1 @@
-# https://Thirteenth-Fairy.github.io/rsschool-cv/cv
+# https://https://github.com/Thirteenth-Fairy/rsschool-cv/cv
