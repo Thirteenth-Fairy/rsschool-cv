@@ -11,29 +11,3 @@ h1 {
 a:hover {
   text-decoration: none;
 }
-
-.1 {
-  max-width: 1024px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.2 {
-  display: flex;
-  justify-content: space-between;
-}
-
-.contact-info {
-  margin-right: 15px;
-}
-
-@media (max-width: 768px) {
-  body {
-    font-size: 22px;
-  }
-
-  .wrapper {
-    flex-direction: column;
-  }
-
-}
